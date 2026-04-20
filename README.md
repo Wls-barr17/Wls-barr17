@@ -20,14 +20,14 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://dev.to/wls-barr17" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  <a href="https://dev.to/wls-barr17">
+    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/wilson-barrera-dev" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/wilson-barrera-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/thecodebarrera" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  <a href="https://leetcode.com/thecodebarrera">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
