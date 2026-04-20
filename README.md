@@ -19,15 +19,15 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://dev.to/wls-barr17" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+<p align="center">
+  <a href="https://dev.to/wls-barr17" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/wilson-barrera-dev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/wilson-barrera-dev" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/thecodebarrera" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  <a href="https://leetcode.com/thecodebarrera" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
 
