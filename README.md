@@ -102,8 +102,12 @@ width="48%"
 ---
 
 ### Motto
+<div align="center">
 
-> *"Do it right, or don't ship it."* — Personal engineering standard
+*"Do it right, or don't ship it."*  
+— Personal engineering standard
+
+</div>
 
 ---
 
