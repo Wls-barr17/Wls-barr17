@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm <span style="color:#3B82F6">Wilson B</span></h1>
+<h1 align="center">Hello there, I'm <span style="color:#3B82F6">Wilson</span></h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=560&lines=Backend+Developer;Java+%7C+Spring+%7C+Databases;Works+on+my+machine;Turning+bugs+into+features;Always+learning+and+improving)](https://git.io/typing-svg)
