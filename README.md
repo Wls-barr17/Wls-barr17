@@ -50,10 +50,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wls-barr17&layout=compact&theme=tokyonight" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wls-barr17&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
+    width="48%" 
+  />
 </p>
 
----
+<div align="center">
+
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Wls-barr17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" 
+width="48%" 
+/>
+
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Wls-barr17&theme=tokyonight&hide_border=true&border_radius=12" 
+width="48%" 
+/>
+
+
+</div>
+
 
 ---
 
