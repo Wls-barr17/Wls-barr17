@@ -29,7 +29,7 @@
   <a href="https://dev.to/wls-barr17">
     <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/wilson-barrera-dev">
+  <a href="https://www.linkedin.com/in/wilson-bbarrera">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/thecodebarrera">
