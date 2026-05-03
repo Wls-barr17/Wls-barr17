@@ -12,10 +12,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I build backend systems that solve real operational problems — automation, reporting workflows, and user-facing services
-- 🧠 Interested in designing reliable APIs, structured data flows, and systems that remain maintainable as they grow
-- 🛡️ Creator of **BullyBlock** — an anonymous reporting system that routes student incidents to designated university staff
-- 👕 Building **OutfitAdvisor** — a Telegram mini-app that helps users plan outfits and pack efficiently for trips
+- 🧠 Focused on system design — building reliable APIs, well-structured data flows, and architectures that remain maintainable as systems scale
+- 🤖 Developing an AI-based livestock monitoring system using computer vision (YOLO) to detect and count cattle in dynamic environments
+→ https://github.com/Wls-barr17/agroguardian-cattle-detection-model
+- ⚙️ Building automation tools and interactive assistants using Telegram Bot API and MCP-style integrations
+→ https://github.com/Wls-barr17/outfitly-ai-telegram-bot
 - 💬 Always open to advice, feedback, and collaboration
 - 📫 Reach me at: **wilsonbarrera.ac@gmail.com**
 
