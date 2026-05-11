@@ -16,7 +16,7 @@
 - 🤖 Developing an AI-based livestock monitoring system using computer vision (YOLO) to detect and count cattle in dynamic environments
 → https://github.com/Wls-barr17/agroguardian-cattle-detection-model
 - ⚙️ Building automation tools and interactive assistants using Telegram Bot API and MCP-style integrations
-→ https://github.com/Wls-barr17/outfitly-ai-telegram-bot
+→ https://github.com/Wls-barr17/outfitly-ai-telegram-mcp
 - 💬 Always open to advice, feedback, and collaboration
 - 📫 Reach me at: **wilsonbarrera.ac@gmail.com**
 
