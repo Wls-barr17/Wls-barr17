@@ -83,27 +83,24 @@ width="48%"
 </p>
 
 ---
-
-### 🎮 Featured Projects
+### ◆ Featured Projects
 
 | Project | Description |
 |--------|------------|
-| OutfitAdvisor | Telegram mini-app that suggests outfits based on weather data and personal wardrobe |
-| BullyBlock | Anonymous reporting system designed to help universities manage and respond to bullying incidents |
-| Slime-Combat | 2D combat game built in GameMaker Studio demonstrating game mechanics and state management |
-
+| **AgroGuardian** | Computer vision system using YOLO to detect and count cattle in real-world environments. |
+| **Outfitly AI** | Telegram assistant that uses AI, weather data, and user preferences to generate outfit recommendations. |
+| **Slime Wars** | 2D combat game developed with GameMaker Studio, focused on gameplay mechanics and state management. |
+| **AgroGuardian Mobile** | Android application designed to support livestock monitoring workflows. |
 ---
 
 ### Motto
 <div align="center">
 
-*"Do it right, or don't ship it."*  
-— Personal engineering standard
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=%E2%96%B6+Do+it+right%2C+or+don't+ship+it.;%E2%94%80+Personal+engineering+standard" />
 
 </div>
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=footer&text=Wilson.dev%20%7C%20Status:%20Building&fontSize=22&fontColor=FFFFFF&animation=twinkling"/>
 </p>
