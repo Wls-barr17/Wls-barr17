@@ -2,48 +2,56 @@
 <h1 align="center">Hello there, I'm <span style="color:#3B82F6">Wilson</span></h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=560&lines=Backend+Developer;Java+%7C+Spring+%7C+Databases;Works+on+my+machine;Turning+bugs+into+features;Always+learning+and+improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+things%2C+breaking+things%2C+fixing+things;APIs%2C+automation%2C+databases+%26+a+bit+of+AI;Works+on+my+machine+%E2%84%A2;Turning+bugs+into+learning+experiences;Still+learning%2C+still+building)](https://git.io/typing-svg)
 
 </div>
 
 
 
----
-
-### 🚀 About Me
-
-- 🧠 Focused on system design — building reliable APIs, well-structured data flows, and architectures that remain maintainable as systems scale
-- 🤖 Developing an AI-based livestock monitoring system using computer vision (YOLO) to detect and count cattle in dynamic environments
-→ https://github.com/Wls-barr17/agroguardian-cattle-detection-model
-- ⚙️ Building automation tools and interactive assistants using Telegram Bot API and MCP-style integrations
-→ https://github.com/Wls-barr17/outfitly-ai-telegram
-- 💬 Always open to advice, feedback, and collaboration
-- 📫 Reach me at: **wilsonbarrera.ac@gmail.com**
-
-> 💡 Fun fact: If I'm not coding, I'm probably playing basketball or fixing something that wasn't broken.
 
 ---
 
-### 🌐 Connect with Me
+### <img src="https://cdn.simpleicons.org/stackoverflow/39FF14" width="20"/> About Me
+
+- <img src="https://cdn.simpleicons.org/diagramsdotnet/FF6F00" width="18"/> Focused on **system design**, building reliable APIs, structured data flows, and maintainable architectures that scale effectively.
+
+- <img src="https://cdn.simpleicons.org/yolo/00FFFF" width="18"/> Developing an **AI-based livestock monitoring system** using computer vision and YOLO to detect and count cattle in dynamic environments.  
+  → [AgroGuardian — Cattle Detection Model](https://github.com/Wls-barr17/agroguardian-cattle-detection-model)
+
+- <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="18"/> Building **automation tools and AI-powered assistants** using the Telegram Bot API and MCP-style integrations.  
+  → [Outfitly AI — Telegram](https://github.com/Wls-barr17/outfitly-ai-telegram)
+
+- <img src="https://cdn.simpleicons.org/spring/6DB33F" width="18"/> Interested in **backend engineering, software architecture, databases, automation, and applied AI**.
+
+- <img src="https://cdn.simpleicons.org/github/FFFFFF" width="18"/> Open to **technical collaboration, knowledge sharing, and opportunities to build reliable software**.
+
+- <img src="https://cdn.simpleicons.org/gmail/EA4335" width="18"/> Contact: **wilsonbarrera.ac@gmail.com**
+
+---
+
+### Connect with Me
 
 <p align="center">
   <a href="https://dev.to/wls-barr17">
-    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/wilson-bbarrera">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!--a href="https://leetcode.com/thecodebarrera">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a-->
 </p>
 
+
 ---
 
-### 🛠️ Languages & Tools
+
+
+### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,git,docker,firebase,laravel,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,laravel,opencv,gcp,docker,firebase,git,arduino" />
 </p>
 
 ---
