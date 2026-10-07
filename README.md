@@ -33,9 +33,9 @@
   <a href="https://www.linkedin.com/in/wilson-bbarrera">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/thecodebarrera">
+  <!--a href="https://leetcode.com/thecodebarrera">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+</a-->
 </p>
 
 ---
