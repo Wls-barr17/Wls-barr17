@@ -13,7 +13,7 @@
 
 ### <img src="https://cdn.simpleicons.org/stackoverflow/39FF14" width="20"/> About Me
 
-- <img src="https://cdn.simpleicons.org/diagramsdotnet/FF6F00" width="18"/> Focused on **system design**, building reliable APIs, structured data flows, and maintainable architectures that scale effectively.
+- <!--img src="https://cdn.simpleicons.org/diagramsdotnet/FF6F00" width="18"/> Focused on **system design**, building reliable APIs, structured data flows, and maintainable architectures that scale effectively.-->
 
 - <img src="https://cdn.simpleicons.org/yolo/00FFFF" width="18"/> Developing an **AI-based livestock monitoring system** using computer vision and YOLO to detect and count cattle in dynamic environments.  
   → [AgroGuardian — Cattle Detection Model](https://github.com/Wls-barr17/agroguardian-cattle-detection-model)
