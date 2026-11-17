@@ -104,10 +104,11 @@ width="48%"
 ### Motto
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=%E2%96%B6+Do+it+right%2C+or+don't+ship+it.;%E2%94%80+Personal+engineering+standard" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=%E2%96%B6+Give+your+best%2C+put+your+heart+into+everything.;%E2%94%80+Even+if+you+fail%2C+you'll+be+better+for+it." />
 
 </div>
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=footer&text=Wilson.dev%20%7C%20Status:%20Building&fontSize=22&fontColor=FFFFFF&animation=twinkling"/>
